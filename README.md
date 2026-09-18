@@ -44,3 +44,4 @@ Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunak
 
 ## Cara Membuka Hasil Website
 Buka index.html menggunakan browser.
+http://127.0.0.1:5500/STS/index.html
